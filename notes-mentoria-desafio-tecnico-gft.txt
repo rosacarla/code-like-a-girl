@@ -1,0 +1,11 @@
+>>>>>>>> 31/05/2022 <<<<<<<<
+Mentoria Java: Desafio Técnico GFT
+Profa. Camila Cavalcante
+
+#############################################################
+
+Como responder o desafio técnico:
+1- criar repositorio no GitHub para entregar resposta.
+2- criar projeto na IDE
+3- usar a classe main criada pela IDE, que serve pra executar
+os códigos.
