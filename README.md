@@ -14,7 +14,7 @@
 
 ## 🏁Soluções desenvolvidas
 
-[Questão 1]()  
+[Questão 1](https://github.com/rosacarla/code-like-a-girl/tree/master/ProjetoReajuste/src/projeto/reajuste)  
 [Questão 2]()  
 []()  
 []()  
