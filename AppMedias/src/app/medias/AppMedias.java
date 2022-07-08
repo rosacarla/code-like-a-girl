@@ -12,7 +12,7 @@ public class AppMedias {
 
                 Scanner nota = new Scanner(System.in); //recebe input de notas e pesos
 
-                System.out.println(" ESCOLHA UMA OPÇÃO PARA CALCULAR A MÉDIA: ");
+                System.out.println("ESCOLHA UMA OPÇÃO PARA CALCULAR A MÉDIA: ");
                 Scanner opcao = new Scanner(System.in);
                 System.out.println("1. Média aritmética");
                 System.out.println("2. Média ponderada");
